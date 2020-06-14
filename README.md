@@ -1,6 +1,6 @@
 # Study Plan: Software Engineering / Computer Science
 ## What is this?
-This living document is my study plan for computer science and software engineering topics.  Given my previous experience in analytics/operations plus education in industrial & systems engineering, it’s been customized to fill my knowledge gaps. It outlines what I’m covering as well as serve as a way to track my progress. 
+> This living document is my study plan for computer science and software engineering topics.  Given my previous experience in analytics/operations plus education in industrial & systems engineering, it’s been customized to fill my knowledge gaps. It outlines what I’m covering as well as serve as a way to track my progress. 
 ---
 ## Completed:
 * **CS50x:** Introduction to Computer Science ([link](https://cs50.harvard.edu/x/2020/)) - Completed June 13th, 2020
