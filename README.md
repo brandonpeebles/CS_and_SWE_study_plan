@@ -1,5 +1,8 @@
 # Study Plan: Software Engineering / Computer Science
 ![banner_logo](img/programming_icon_banner.png)
+<sub><sup>Image from https://www.clipartkey.com/view/ohhmhm_computer-science-and-engineering-computer-science-icon-circle/</sup></sub>
+[Image source] (https://www.clipartkey.com/view/ohhmhm_computer-science-and-engineering-computer-science-icon-circle/)
+
 ## What is this?
 > This living document is my study plan for computer science and software engineering topics.  Given my previous experience in analytics/operations plus education in industrial & systems engineering, it’s been customized to fill my knowledge gaps and prepare me for a role in software engineering. It outlines what I’m covering as well as serve as a way to track my progress.
 ---
