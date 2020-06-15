@@ -1,4 +1,5 @@
 # Study Plan: Software Engineering / Computer Science
+_**Author: **Brandon Peebles_
 ![banner_logo](img/programming_icon_banner.png)
 <sub><sup>Image from https://www.clipartkey.com/view/ohhmhm_computer-science-and-engineering-computer-science-icon-circle/</sup></sub>
 
@@ -28,7 +29,7 @@
 	* Introductory Discrete Mathematics (book) - read for general knowledge
 	* Computer Science 162 (UC Berkeley cours lectures)
 * Flask Web Development 2nd Edition ([book](https://www.amazon.com/Flask-Web-Development-Developing-Applications/dp/1491991739/ref=pd_lpo_14_img_0/142-6800639-6536255?_encoding=UTF8&pd_rd_i=1491991739&pd_rd_r=18257858-20bf-4d05-91af-46f001c44dfe&pd_rd_w=sVulb&pd_rd_wg=YiOH2&pf_rd_p=7b36d496-f366-4631-94d3-61b87b52511b&pf_rd_r=ZBGRKWTX74NP7Z094FKY&psc=1&refRID=ZBGRKWTX74NP7Z094FKY)) (TBD - may prioritize Node.JS instead)
-Clean Code ([book](https://www.amazon.com/Clean-Code-Handbook-Software-Craftsmanship/dp/0132350882/ref=sr_1_2?dchild=1&keywords=clean+code&qid=1592159304&s=books&sr=1-2))
+* Clean Code ([book](https://www.amazon.com/Clean-Code-Handbook-Software-Craftsmanship/dp/0132350882/ref=sr_1_2?dchild=1&keywords=clean+code&qid=1592159304&s=books&sr=1-2))
 * Cracking the Coding Interview 6th Edition ([book](https://www.amazon.com/Cracking-Coding-Interview-Programming-Questions/dp/0984782850/ref=sr_1_2?crid=17NX867ZGASZA&dchild=1&keywords=cracking+the+coding+interview&qid=1592159325&s=books&sprefix=cracking%2Cstripbooks%2C139&sr=1-2))
 
 ## Other resources:
