@@ -56,7 +56,7 @@ _**Owner:** Brandon Peebles_
 		- [ ] Adjacency List
 		- [ ] Traversals: BFS, DFS
 		
-* **Other Topics (when I have time): ** Outline presented --> see detailed view in appendix below, adapted from the Coding Interview University repo created by John Washam ([link](https://github.com/jwasham/coding-interview-university))
+* **Other Topics (when I have time):** Outline presented --> see detailed view in appendix below, adapted from the Coding Interview University repo created by John Washam ([link](https://github.com/jwasham/coding-interview-university))
 	- [ ] Recursion
 	- [ ] Dynamic Programming
 	- [ ] Combinatorics (n choose k) & Probability
