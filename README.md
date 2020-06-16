@@ -92,6 +92,8 @@ _**Owner:** Brandon Peebles_
 	- [ ] The C Programming Language 2nd Edition
 * Websites
 	* LeetCode ([link](https://leetcode.com))
+	* OSSU: Computer Science ([repo](https://github.com/ossu/computer-science#core-programming))
+	* [Teach Yourself Computer Science](https://teachyourselfcs.com)
 	
 	
 ---
