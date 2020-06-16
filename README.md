@@ -1,5 +1,5 @@
 # Study Plan: Software Engineering / Computer Science
-_**Author:** Brandon Peebles_
+_**Owner:** Brandon Peebles_
 ![banner_logo](img/programming_icon_banner.png)
 <sub><sup>Image from https://www.clipartkey.com/view/ohhmhm_computer-science-and-engineering-computer-science-icon-circle/</sup></sub>
 
