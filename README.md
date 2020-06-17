@@ -4,7 +4,7 @@ _**Owner:** Brandon Peebles_
 <sub><sup>Image from https://www.clipartkey.com/view/ohhmhm_computer-science-and-engineering-computer-science-icon-circle/</sup></sub>
 
 ## What is this?
-<p>This living document is my study plan for computer science and software engineering topics.  Given my previous experience in analytics/operations plus education in industrial & systems engineering, it’s been customized to fill specifically my knowledge gaps and prepare me for a role in software engineering. It outlines what I’m covering (in roughly the order I plan to cover it) as well as serves as a way to track my progress.</p>
+<p>This living document is my study plan for computer science and software engineering topics.  Given my previous experience in analytics/operations plus education in industrial & systems engineering, it’s been tailored to specifically fill my own knowledge gaps and prepare me for a role in software engineering. It outlines what I’m covering (in roughly the order I plan to cover it) as well as serves as a way to track my progress.</p>
 
 ---
 
