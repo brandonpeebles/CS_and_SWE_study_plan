@@ -10,7 +10,7 @@ _**Owner:** Brandon Peebles_
 
 ## Outline:
 - [X] **Harvard CS50x:** Introduction to Computer Science [link](https://cs50.harvard.edu/x/2020/) - Completed June 13th, 2020
-- [ ] **freeCodeCamp** ([link](https://www.freecodecamp.org/learn))  - June 13th, 2020 — Present
+- [ ] **freeCodeCamp** ([my portfolio](https://www.freecodecamp.org/brandonpeebles))  - June 13th, 2020 — Present
 	- [X] Responsive Web Design
 	- [ ] JavaScript Algorithms and Data Structures _(in progress)_ (May combine with [Python course](https://www.udacity.com/course/data-structures-and-algorithms-in-python--ud513))
 	- [ ] Front End Libraries (Bootstrap, jQuery, Sass, React, Redux)
@@ -18,7 +18,7 @@ _**Owner:** Brandon Peebles_
 	- [ ] APIs and Microservices (Npm, Node, Express, MongoDB, Mongoose)
 	- [ ] Information Security and Quality Assurance (HelmetJS, QA and Testing with Chai, Advanced Node & Express)
 - [ ]  **Overview of Operating Systems:**
-	- [ ] [Operating Systems Concepts 10th Edition](https://www.amazon.com/Operating-System-Concepts-Abraham-Silberschatz-ebook/dp/B07CVKH7BD)) _(in progress)_
+	- [ ] [Operating Systems Concepts 10th Edition](https://www.amazon.com/Operating-System-Concepts-Abraham-Silberschatz-ebook/dp/B07CVKH7BD) _(in progress)_
 	- [ ] [Berkeley CS 162 Operating Systems - 24 videos](https://www.youtube.com/playlist?list=PLRdybCcWDFzCag9A0h1m9QYaujD0xefgM)
 * **Overview of Computer Processing & Architecture:**
 	- [ ] [How CPU executes a program (video)](https://www.youtube.com/watch?v=XM4lGflQFvA)
