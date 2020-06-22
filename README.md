@@ -11,8 +11,8 @@ _**Owner:** Brandon Peebles_
 ## Outline:
 - [X] **Harvard CS50x:** Introduction to Computer Science [link](https://cs50.harvard.edu/x/2020/) - Completed June 13th, 2020
 - [ ] **freeCodeCamp** ([link](https://www.freecodecamp.org/learn))  - June 13th, 2020 — Present
-	- [ ] Responsive Web Design _(in progress)_
-	- [ ] JavaScript Algorithms and Data Structures (TBD - may replace with [Python course instead](https://www.udacity.com/course/data-structures-and-algorithms-in-python--ud513) or do both)
+	- [X] Responsive Web Design
+	- [ ] JavaScript Algorithms and Data Structures _(in progress)_ (May combine with [Python course](https://www.udacity.com/course/data-structures-and-algorithms-in-python--ud513))
 	- [ ] Front End Libraries (Bootstrap, jQuery, Sass, React, Redux)
 	- [ ] Data Visualization (D3, JSON APIs and Ajax)
 	- [ ] APIs and Microservices (Npm, Node, Express, MongoDB, Mongoose)
