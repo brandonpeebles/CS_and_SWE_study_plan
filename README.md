@@ -21,7 +21,7 @@ _**Owner:** Brandon Peebles_
 	- [ ] [Operating Systems Concepts 10th Edition](https://www.amazon.com/Operating-System-Concepts-Abraham-Silberschatz-ebook/dp/B07CVKH7BD) _(in progress)_
 	- [ ] [Berkeley CS 162 Operating Systems - 24 videos](https://www.youtube.com/playlist?list=PLRdybCcWDFzCag9A0h1m9QYaujD0xefgM)
 * **Overview of Computer Processing & Architecture:**
-	- [ ] [How CPU executes a program (video)](https://www.youtube.com/watch?v=XM4lGflQFvA)
+	- [X] [How CPU executes a program (video)](https://www.youtube.com/watch?v=XM4lGflQFvA)
 	- [ ] [How computers calculate - ALU (video)](https://youtu.be/1I5ZMmrOfnA)
 	- [ ] [Registers and RAM (video)](https://youtu.be/fpnE6UAfbtU)
 	- [ ] [The Central Processing Unit (CPU) (video)](https://youtu.be/FZGugFqdr60)
