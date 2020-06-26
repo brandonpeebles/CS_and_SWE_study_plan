@@ -4,7 +4,7 @@ _**Owner:** Brandon Peebles_
 <sub><sup>Image from https://www.clipartkey.com/view/ohhmhm_computer-science-and-engineering-computer-science-icon-circle/</sup></sub>
 
 ## What is this?
-<p>This living document is my study plan for computer science and software engineering topics.  Given my previous experience in analytics/operations plus education in industrial & systems engineering, it’s been tailored to specifically fill my own knowledge gaps and prepare me for a role in software engineering. It outlines what I’m covering (in roughly the order I plan to cover it) as well as serves as a way to track my progress.</p>
+<p>This living document is my study plan for computer science and software engineering topics.  Given my previous experience in analytics/operations plus education in industrial & systems engineering, it’s been tailored to specifically fill my own knowledge gaps and prepare me for a role in software engineering. It outlines what I’m covering (in roughly the order I plan to cover it) as well as serves as a way to track my progress. I will be focusing on core computer science topics/concepts, full-stack JavaScript web development, and Python.</p>
 
 ---
 
@@ -12,7 +12,7 @@ _**Owner:** Brandon Peebles_
 - [X] **Harvard CS50x:** Introduction to Computer Science [link](https://cs50.harvard.edu/x/2020/) - Completed June 13th, 2020
 - [ ] **freeCodeCamp** ([my portfolio](https://www.freecodecamp.org/brandonpeebles))  - June 13th, 2020 — Present
 	- [X] Responsive Web Design
-	- [ ] JavaScript Algorithms and Data Structures _(in progress)_ (May combine with [Python course](https://www.udacity.com/course/data-structures-and-algorithms-in-python--ud513))
+	- [ ] JavaScript Algorithms and Data Structures _(in progress)_ 
 	- [ ] Front End Libraries (Bootstrap, jQuery, Sass, React, Redux)
 	- [ ] Data Visualization (D3, JSON APIs and Ajax)
 	- [ ] APIs and Microservices (Npm, Node, Express, MongoDB, Mongoose)
@@ -27,34 +27,37 @@ _**Owner:** Brandon Peebles_
 	- [ ] [The Central Processing Unit (CPU) (video)](https://youtu.be/FZGugFqdr60)
 	- [ ] [Instructions and Programs (video)](https://youtu.be/zltgXvg6r3k)
 - [ ] **[Crash Course: Computer Science - 41 videos: ](https://www.youtube.com/playlist?list=PL8dPuuaLjXtNlUrzyH5r6jN9ulIgZBpdo)** _(in progress)_ Really great overview video series about computer science history, computer architecture, languages, internet, and more. 
-- [ ] **Data Structures & Algorithms:** Learn and practice implementations of the following. Outline presented --> see detailed view in appendix below, adapted from the Coding Interview University repo created by John Washam ([link](https://github.com/jwasham/coding-interview-university))
-	- [X] Algorithmic Complexity / Big-O / Asymptotic Analysis
-	- [ ] Data Structures
-		- [ ] Arrays
-		- [ ] Linked Lists
-		- [ ] Stack
-		- [ ] Queue
-		- [ ] Hash tables
-	- [ ] Binary Search
-	- [ ] Bitwise Operations
-	- [ ] Trees
-		- [ ] General knowledge & Background
-		- [ ] Binary Search Trees: BSTs
-		- [ ] Heap / Prioritity Queue / Binary Heap
-		- [ ] Balanced Search Trees (general concept)
-		- [ ] Traversals: preorder, inorder, postorder, BFS, DFS
-	- [ ] Sorting
-		- [ ] Selection
-		- [ ] Insertion
-		- [ ] Heapsort
-		- [ ] Quicksort
-		- [ ] Merge sort
-	- [ ] Graphs
-		- [ ] Directed
-		- [ ] Undirected
-		- [ ] Adjacency Matrix
-		- [ ] Adjacency List
-		- [ ] Traversals: BFS, DFS
+- [ ] **Data Structures & Algorithms:** _(in progress)_ Combined study using the following resources
+	- [ ] Data Structures & Algorithms in Python ([book](https://www.amazon.com/Structures-Algorithms-Python-Michael-Goodrich/dp/1118290275))
+	- [ ] Data Structures & Algorithms in Python ([course](https://www.udacity.com/course/data-structures-and-algorithms-in-python--ud513))
+	- [ ] Coding Interview University: Learn and practice implementations of the following. Outline presented --> see detailed view in appendix below, adapted from the Coding Interview University repo created by John Washam ([link](https://github.com/jwasham/coding-interview-university))
+		- [X] Algorithmic Complexity / Big-O / Asymptotic Analysis
+		- [ ] Data Structures
+			- [ ] Arrays
+			- [ ] Linked Lists
+			- [ ] Stack
+			- [ ] Queue
+			- [ ] Hash tables
+		- [ ] Binary Search
+		- [ ] Bitwise Operations
+		- [ ] Trees
+			- [ ] General knowledge & Background
+			- [ ] Binary Search Trees: BSTs
+			- [ ] Heap / Prioritity Queue / Binary Heap
+			- [ ] Balanced Search Trees (general concept)
+			- [ ] Traversals: preorder, inorder, postorder, BFS, DFS
+		- [ ] Sorting
+			- [ ] Selection
+			- [ ] Insertion
+			- [ ] Heapsort
+			- [ ] Quicksort
+			- [ ] Merge sort
+		- [ ] Graphs
+			- [ ] Directed
+			- [ ] Undirected
+			- [ ] Adjacency Matrix
+			- [ ] Adjacency List
+			- [ ] Traversals: BFS, DFS
 		
 * **Other Topics (when I have time):** Outline presented --> see detailed view in appendix below, adapted from the Coding Interview University repo created by John Washam ([link](https://github.com/jwasham/coding-interview-university))
 	- [ ] Recursion
@@ -86,10 +89,10 @@ _**Owner:** Brandon Peebles_
 
 ## Other resources:
 * Books
-	- [ ] Data Structures & Algorithms in Python
-	- [ ] Learning Python 5th Edition
+	- [ ] Learning Python: Powerful Object Oriented Programming 5th Edition
 	- [ ] The UNIX Programming Environment
 	- [ ] The C Programming Language 2nd Edition
+	- [ ] Cracking the Coding Interview 6th Edition
 * Websites
 	* LeetCode ([link](https://leetcode.com))
 	* OSSU: Computer Science ([repo](https://github.com/ossu/computer-science#core-programming))
@@ -126,7 +129,7 @@ _**Owner:** Brandon Peebles_
 
 - ### Arrays
     - Implement an automatically resizing vector.
-    - [ ] Description:
+    - [X] Description:
         - [Arrays (video)](https://www.coursera.org/learn/data-structures/lecture/OsBSF/arrays)
         - [UC Berkeley CS61B - Linear and Multi-Dim Arrays (video)](https://archive.org/details/ucberkeley_webcast_Wp8oiO_CZZE) (Start watching from 15m 32s)
         - [Basic Arrays (video)](https://archive.org/details/0102WhatYouShouldKnow/02_04-basicArrays.mp4)
