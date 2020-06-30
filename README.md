@@ -12,8 +12,8 @@ _**Owner:** Brandon Peebles_
 - [X] **Harvard CS50x:** Introduction to Computer Science [link](https://cs50.harvard.edu/x/2020/) - Completed June 13th, 2020
 - [ ] **freeCodeCamp** ([my portfolio](https://www.freecodecamp.org/brandonpeebles))  - June 13th, 2020 — Present
 	- [X] Responsive Web Design
-	- [ ] JavaScript Algorithms and Data Structures _(in progress)_ 
-	- [ ] Front End Libraries (Bootstrap, jQuery, Sass, React, Redux)
+	- [X] JavaScript Algorithms and Data Structures
+	- [ ] Front End Libraries (Bootstrap, jQuery, Sass, React, Redux) _(in progress)_ 
 	- [ ] Data Visualization (D3, JSON APIs and Ajax)
 	- [ ] APIs and Microservices (Npm, Node, Express, MongoDB, Mongoose)
 	- [ ] Information Security and Quality Assurance (HelmetJS, QA and Testing with Chai, Advanced Node & Express)
