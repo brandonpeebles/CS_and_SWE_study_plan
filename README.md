@@ -33,9 +33,9 @@ _**Owner:** Brandon Peebles_
 	- [ ] Coding Interview University: Learn and practice implementations of the following. Outline presented --> see detailed view in appendix below, adapted from the Coding Interview University repo created by John Washam ([link](https://github.com/jwasham/coding-interview-university))
 		- [X] Algorithmic Complexity / Big-O / Asymptotic Analysis
 		- [ ] Data Structures
-			- [ ] Arrays
+			- [X] Arrays
 			- [ ] Linked Lists
-			- [ ] Stack
+			- [X] Stack
 			- [ ] Queue
 			- [ ] Hash tables
 		- [ ] Binary Search
@@ -138,7 +138,7 @@ _**Owner:** Brandon Peebles_
         - [Jagged Arrays (video)](https://www.youtube.com/watch?v=1jtrQqYpt7g)
         - [Jagged Arrays (video)](https://archive.org/details/0102WhatYouShouldKnow/02_06-jaggedArrays.mp4)
         - [Resizing arrays (video)](https://archive.org/details/0102WhatYouShouldKnow/03_01-resizableArrays.mp4)
-    - [ ] Implement a vector/dynamic array class (mutable array with automatic resizing):
+    - [X] Implement a vector/dynamic array class (mutable array with automatic resizing):
         - [X] size() - number of items
         - [X] capacity() - number of items it can hold
         - [X] at(index) - returns item at given index, blows up if index out of bounds
@@ -152,10 +152,10 @@ _**Owner:** Brandon Peebles_
         - [X] resize(new_capacity) // private function
             - when you reach capacity, resize to double the size
             - when popping an item, if size is 1/4 of capacity, resize to half
-    - [ ] Time
+    - [X] Time
         - O(1) to add/remove at end (amortized for allocations for more space), index, or update
         - O(n) to insert/remove elsewhere
-    - [ ] Space
+    - [X] Space
         - contiguous in memory, so proximity helps performance
         - space needed = (array capacity, which is >= n) * size of item, but even if 2n, still O(n)
 
@@ -194,9 +194,9 @@ _**Owner:** Brandon Peebles_
         - No need to implement
 
 - ### Stack
-    - [ ] [Stacks (video)](https://www.coursera.org/learn/data-structures/lecture/UdKzQ/stacks)
-    - [ ] [Using Stacks Last-In First-Out (video)](https://archive.org/details/0102WhatYouShouldKnow/05_01-usingStacksForLast-inFirst-out.mp4)
-    - [ ] Will not implement. Implementing with array is trivial.
+    - [X] [Stacks (video)](https://www.coursera.org/learn/data-structures/lecture/UdKzQ/stacks)
+    - [X] [Using Stacks Last-In First-Out (video)](https://archive.org/details/0102WhatYouShouldKnow/05_01-usingStacksForLast-inFirst-out.mp4)
+    - [X] Will not implement. Implementing with array is trivial.
 
 - ### Queue
     - [ ] [Using Queues First-In First-Out(video)](https://archive.org/details/0102WhatYouShouldKnow/05_03-usingQueuesForFirst-inFirst-out.mp4)
