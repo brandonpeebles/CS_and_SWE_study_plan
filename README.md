@@ -34,7 +34,7 @@ _**Owner:** Brandon Peebles_
 		- [X] Algorithmic Complexity / Big-O / Asymptotic Analysis
 		- [ ] Data Structures
 			- [X] Arrays
-			- [ ] Linked Lists
+			- [X] Linked Lists
 			- [X] Stack
 			- [X] Queue
 			- [ ] Hash tables
@@ -161,26 +161,25 @@ _**Owner:** Brandon Peebles_
 
 - ### Linked Lists
     - [X] General concept via textbook
-    - [ ] Linked List vs Arrays:
+    - [X] Linked List vs Arrays:
         - [Core Linked Lists Vs Arrays (video)](https://www.coursera.org/learn/data-structures-optimizing-performance/lecture/rjBs9/core-linked-lists-vs-arrays)
         - [In The Real World Linked Lists Vs Arrays (video)](https://www.coursera.org/learn/data-structures-optimizing-performance/lecture/QUaUd/in-the-real-world-lists-vs-arrays)
-    - [ ] [why you should avoid linked lists (video)](https://www.youtube.com/watch?v=YQs6IC-vgmo)
-    - [ ] implement:
+    - [X] implement:
         - [X] size() - returns number of data elements in list
         - [X] empty() - bool returns true if empty
-        - [ ] value_at(index) - returns the value of the nth item (starting at 0 for first)
+        - [X] value_at(index) - returns the value of the nth item (starting at 0 for first)
         - [X] push_front(value) - adds an item to the front of the list
         - [X] pop_front() - remove front item and return its value
         - [X] push_back(value) - adds an item at the end
         - [X] pop_back() - removes end item and returns its value
         - [X] front() - get value of front item
         - [X] back() - get value of end item
-        - [ ] insert(index, value) - insert value at index, so current item at that index is pointed to by new item at index
-        - [ ] erase(index) - removes node at given index
-        - [ ] value_n_from_end(n) - returns the value of the node at nth position from the end of the list
-        - [ ] reverse() - reverses the list
-        - [ ] remove_value(value) - removes the first item in the list with this value
-    - [ ] Doubly-linked List
+        - [X] insert(index, value) - insert value at index, so current item at that index is pointed to by new item at index
+        - [X] erase(index) - removes node at given index
+        - [X] value_n_from_end(n) - returns the value of the node at nth position from the end of the list
+        - [X] reverse() - reverses the list
+        - [X] remove_value(value) - removes the first item in the list with this value
+    - [X] Doubly-linked List
         - [Description (video)](https://www.coursera.org/learn/data-structures/lecture/jpGKD/doubly-linked-lists)
         - No need to implement
 
