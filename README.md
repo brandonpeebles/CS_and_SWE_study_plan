@@ -38,7 +38,7 @@ _**Owner:** Brandon Peebles_
 			- [X] Stack
 			- [X] Queue
 			- [ ] Hash tables
-		- [ ] Binary Search
+		- [X] Binary Search
 		- [ ] Bitwise Operations
 		- [ ] Trees
 			- [X] General knowledge & Background
