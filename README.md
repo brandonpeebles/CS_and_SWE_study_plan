@@ -20,12 +20,12 @@ _**Owner:** Brandon Peebles_
 - [ ]  **Overview of Operating Systems:**
 	- [ ] [Operating Systems Concepts 10th Edition](https://www.amazon.com/Operating-System-Concepts-Abraham-Silberschatz-ebook/dp/B07CVKH7BD) _(in progress)_
 	- [ ] [Berkeley CS 162 Operating Systems - 24 videos](https://www.youtube.com/playlist?list=PLRdybCcWDFzCag9A0h1m9QYaujD0xefgM)
-- [ ]  **Overview of Computer Processing & Architecture:**
+- [X]  **Overview of Computer Processing & Architecture:**
 	- [X] [How CPU executes a program (video)](https://www.youtube.com/watch?v=XM4lGflQFvA)
-	- [ ] [How computers calculate - ALU (video)](https://youtu.be/1I5ZMmrOfnA)
-	- [ ] [Registers and RAM (video)](https://youtu.be/fpnE6UAfbtU)
-	- [ ] [The Central Processing Unit (CPU) (video)](https://youtu.be/FZGugFqdr60)
-	- [ ] [Instructions and Programs (video)](https://youtu.be/zltgXvg6r3k)
+	- [X] [How computers calculate - ALU (video)](https://youtu.be/1I5ZMmrOfnA)
+	- [X] [Registers and RAM (video)](https://youtu.be/fpnE6UAfbtU)
+	- [X] [The Central Processing Unit (CPU) (video)](https://youtu.be/FZGugFqdr60)
+	- [X] [Instructions and Programs (video)](https://youtu.be/zltgXvg6r3k)
 - [ ] **[Crash Course: Computer Science - 41 videos: ](https://www.youtube.com/playlist?list=PL8dPuuaLjXtNlUrzyH5r6jN9ulIgZBpdo)** _(in progress)_ Really great overview video series about computer science history, computer architecture, languages, internet, and more. 
 - [ ] **Data Structures & Algorithms:** _(in progress)_ Combined study using the following resources
 	- [ ] Data Structures & Algorithms in Python ([book](https://www.amazon.com/Structures-Algorithms-Python-Michael-Goodrich/dp/1118290275))
