@@ -13,8 +13,8 @@ _**Owner:** Brandon Peebles_
 - [ ] **freeCodeCamp** ([my portfolio](https://www.freecodecamp.org/brandonpeebles))  - June 13th, 2020 — Present
 	- [X] Responsive Web Design
 	- [X] JavaScript Algorithms and Data Structures
-	- [ ] Front End Libraries (Bootstrap, jQuery, Sass, React, Redux) _(in progress)_ 
-	- [ ] Data Visualization (D3, JSON APIs and Ajax)
+	- [X] Front End Libraries (Bootstrap, jQuery, Sass, React, Redux) 
+	- [ ] Data Visualization (D3, JSON APIs and Ajax) _(in progress)_ 
 	- [ ] APIs and Microservices (Npm, Node, Express, MongoDB, Mongoose)
 	- [ ] Information Security and Quality Assurance (HelmetJS, QA and Testing with Chai, Advanced Node & Express)
 - [ ]  **Overview of Operating Systems:**
