@@ -14,8 +14,8 @@ _**Owner:** Brandon Peebles_
 	- [X] Responsive Web Design
 	- [X] JavaScript Algorithms and Data Structures
 	- [X] Front End Libraries (Bootstrap, jQuery, Sass, React, Redux) 
-	- [ ] Data Visualization (D3, JSON APIs and Ajax) _(in progress)_ 
-	- [ ] APIs and Microservices (Npm, Node, Express, MongoDB, Mongoose)
+	- [X] Data Visualization (D3, JSON APIs and Ajax) 
+	- [ ] APIs and Microservices (Npm, Node, Express, MongoDB, Mongoose) _(in progress)_ 
 	- [ ] Information Security and Quality Assurance (HelmetJS, QA and Testing with Chai, Advanced Node & Express)
 - [ ]  **Overview of Operating Systems:**
 	- [ ] [Operating Systems Concepts 10th Edition](https://www.amazon.com/Operating-System-Concepts-Abraham-Silberschatz-ebook/dp/B07CVKH7BD) _(in progress)_
