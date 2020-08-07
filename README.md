@@ -15,8 +15,8 @@ _**Owner:** Brandon Peebles_
 	- [X] JavaScript Algorithms and Data Structures
 	- [X] Front End Libraries (Bootstrap, jQuery, Sass, React, Redux) 
 	- [X] Data Visualization (D3, JSON APIs and Ajax) 
-	- [ ] APIs and Microservices (Npm, Node, Express, MongoDB, Mongoose) _(in progress)_ 
-	- [ ] Information Security and Quality Assurance (HelmetJS, QA and Testing with Chai, Advanced Node & Express)
+	- [X] APIs and Microservices (Npm, Node, Express, MongoDB, Mongoose) 
+	- [ ] Information Security and Quality Assurance (HelmetJS, QA and Testing with Chai, Advanced Node & Express) _(in progress)_ 
 - [ ]  **Overview of Operating Systems:**
 	- [ ] [Operating Systems Concepts 10th Edition](https://www.amazon.com/Operating-System-Concepts-Abraham-Silberschatz-ebook/dp/B07CVKH7BD) _(in progress)_
 	- [ ] [Berkeley CS 162 Operating Systems - 24 videos](https://www.youtube.com/playlist?list=PLRdybCcWDFzCag9A0h1m9QYaujD0xefgM)
