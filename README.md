@@ -9,14 +9,14 @@ _**Owner:** Brandon Peebles_
 ---
 
 ## Outline:
-- [X] **Harvard CS50x:** Introduction to Computer Science [link](https://cs50.harvard.edu/x/2020/) - Completed June 13th, 2020
-- [X] **freeCodeCamp** ([my portfolio](https://www.freecodecamp.org/brandonpeebles))  - June 13th, 2020 — Present
+- [X] **Harvard CS50x:** Introduction to Computer Science [link](https://cs50.harvard.edu/x/2020/)
+- [X] **freeCodeCamp** ([my Full Stack development certification](https://www.freecodecamp.org/certification/brandonpeebles/full-stack)) 
 	- [X] Responsive Web Design
 	- [X] JavaScript Algorithms and Data Structures
 	- [X] Front End Libraries (Bootstrap, jQuery, Sass, React, Redux) 
 	- [X] Data Visualization (D3, JSON APIs and Ajax) 
 	- [X] APIs and Microservices (Npm, Node, Express, MongoDB, Mongoose) 
-	- [X] Information Security and Quality Assurance (HelmetJS, QA and Testing with Chai, Advanced Node & Express) _(in progress)_ 
+	- [X] Information Security and Quality Assurance (HelmetJS, QA and Testing with Chai, Advanced Node & Express) 
 - [ ]  **Overview of Operating Systems:**
 	- [ ] [Operating Systems Concepts 10th Edition](https://www.amazon.com/Operating-System-Concepts-Abraham-Silberschatz-ebook/dp/B07CVKH7BD) _(in progress)_
 	- [ ] [Berkeley CS 162 Operating Systems - 24 videos](https://www.youtube.com/playlist?list=PLRdybCcWDFzCag9A0h1m9QYaujD0xefgM)
