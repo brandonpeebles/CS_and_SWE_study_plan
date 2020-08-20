@@ -32,12 +32,12 @@ _**Owner:** Brandon Peebles_
 	- [ ] Data Structures & Algorithms in Python ([course](https://www.udacity.com/course/data-structures-and-algorithms-in-python--ud513))
 	- [ ] Coding Interview University: Learn and practice implementations of the following. Outline presented --> see detailed view in appendix below, adapted from the Coding Interview University repo created by John Washam ([link](https://github.com/jwasham/coding-interview-university))
 		- [X] Algorithmic Complexity / Big-O / Asymptotic Analysis
-		- [ ] Basic Data Structures
+		- [X] Basic Data Structures
 			- [X] Arrays
 			- [X] Linked Lists
 			- [X] Stack
 			- [X] Queue
-			- [ ] Hash tables
+			- [X] Hash tables
 		- [X] Binary Search
 		- [ ] Bitwise Operations
 		- [X] Trees
