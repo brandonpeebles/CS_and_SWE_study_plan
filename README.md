@@ -28,8 +28,8 @@ _**Owner:** Brandon Peebles_
 	- [X] [Instructions and Programs (video)](https://youtu.be/zltgXvg6r3k)
 - [ ] **[Crash Course: Computer Science - 41 videos: ](https://www.youtube.com/playlist?list=PL8dPuuaLjXtNlUrzyH5r6jN9ulIgZBpdo)** _(in progress)_ Really great overview video series about computer science history, computer architecture, languages, internet, and more. 
 - [ ] **Data Structures & Algorithms:** _(in progress)_ Combined study using the following resources
-	- [ ] Data Structures & Algorithms in Python ([book](https://www.amazon.com/Structures-Algorithms-Python-Michael-Goodrich/dp/1118290275))
-	- [ ] Data Structures & Algorithms in Python ([course](https://www.udacity.com/course/data-structures-and-algorithms-in-python--ud513))
+	- [X] Data Structures & Algorithms in Python ([book](https://www.amazon.com/Structures-Algorithms-Python-Michael-Goodrich/dp/1118290275))
+	- [X] Data Structures & Algorithms in Python ([course](https://www.udacity.com/course/data-structures-and-algorithms-in-python--ud513))
 	- [ ] Coding Interview University: Learn and practice implementations of the following. Outline presented --> see detailed view in appendix below, adapted from the Coding Interview University repo created by John Washam ([link](https://github.com/jwasham/coding-interview-university))
 		- [X] Algorithmic Complexity / Big-O / Asymptotic Analysis
 		- [X] Basic Data Structures
@@ -47,27 +47,27 @@ _**Owner:** Brandon Peebles_
 			- [X] Balanced Search Trees (general concept + implementation of method to check if it is balanced)
 			- [X] Traversals: preorder, inorder, postorder, BFS, DFS
 		- [ ] Sorting
-			- [ ] Selection
+			- [X] Selection
 			- [ ] Insertion
 			- [ ] Heapsort
 			- [ ] Quicksort
-			- [ ] Merge sort
-		- [ ] Graphs
-			- [ ] Directed
-			- [ ] Undirected
-			- [ ] Adjacency Matrix
+			- [X] Merge sort
+		- [X] Graphs
+			- [X] Directed
+			- [X] Undirected
+			- [X] Adjacency Matrix
 			- [X] Adjacency List
 			- [X] Traversals: BFS, DFS
 		
 * **Other Topics (when I have time):** Outline presented --> see detailed view in appendix below, adapted from the Coding Interview University repo created by John Washam ([link](https://github.com/jwasham/coding-interview-university))
 	- [X] Recursion
-	- [ ] Dynamic Programming
+	- [X] Dynamic Programming
 	- [ ] Combinatorics (n choose k) & Probability
 	- [ ] NP, NP-Complete and Approximation Algorithms
 	- [ ] Testing
 	- [ ] Scheduling
 	- [ ] String searching & manipulation
-	- [ ] Tries
+	- [X] Tries
 	- [ ] Floating Point Numbers
 	- [ ] Unicode
 	- [ ] Endianness
@@ -392,7 +392,7 @@ _**Owner:** Brandon Peebles_
 - [ ] [Quicksort (video)](https://www.youtube.com/watch?v=y_G9BkAm6B8&index=4&list=PL89B61F78B552C1AB)
 - [ ] [Selection Sort (video)](https://www.youtube.com/watch?v=6nDMgr0-Yyo&index=8&list=PL89B61F78B552C1AB)
 
-- [ ] Merge sort code:
+- [X] Merge sort code:
     - [ ] [Using output array (C)](http://www.cs.yale.edu/homes/aspnes/classes/223/examples/sorting/mergesort.c)
     - [ ] [Using output array (Python)](https://github.com/jwasham/practice-python/blob/master/merge_sort/merge_sort.py)
     - [ ] [In-place (C++)](https://github.com/jwasham/practice-cpp/blob/master/merge_sort/merge_sort.cc)
@@ -402,7 +402,7 @@ _**Owner:** Brandon Peebles_
     - [ ] [Implementation (Python)](https://github.com/jwasham/practice-python/blob/master/quick_sort/quick_sort.py)
 
 - [ ] Implement:
-    - [ ] Mergesort: O(n log n) average and worst case
+    - [X] Mergesort: O(n log n) average and worst case
     - [ ] Quicksort O(n log n) average case
     - Selection sort and insertion sort are both O(n^2) average and worst case
     - [ ] heapsort, see Heap data structure above.
@@ -438,7 +438,7 @@ Graphs can be used to represent many problems in computer science, so this secti
     - BFS and DFS - know their computational complexity, their tradeoffs, and how to implement them in real code
     - When asked a question, look for a graph-based solution first, then move on if none.
 
-- [ ] MIT(videos):
+- [X] MIT(videos):
     - [ ] [Breadth-First Search](https://www.youtube.com/watch?v=s-CYnVz-uh4&list=PLUl4u3cNGP61Oq3tWYp6V_F-5jb5L2iHb&index=13)
     - [ ] [Depth-First Search](https://www.youtube.com/watch?v=AfSk24UTFS8&list=PLUl4u3cNGP61Oq3tWYp6V_F-5jb5L2iHb&index=14)
 
@@ -450,7 +450,7 @@ Graphs can be used to represent many problems in computer science, so this secti
     - [ ] [CSE373 2012 - Lecture 15 - Graph Algorithms (con't 2) (video)](https://www.youtube.com/watch?v=ia1L30l7OIg&index=15&list=PLOtl7M3yp-DV69F32zdK7YJcNXpTunF2b)
     - [ ] [CSE373 2012 - Lecture 16 - Graph Algorithms (con't 3) (video)](https://www.youtube.com/watch?v=jgDOQq6iWy8&index=16&list=PLOtl7M3yp-DV69F32zdK7YJcNXpTunF2b)
 
-- [ ] Graphs (review and more):
+- [X] Graphs (review and more):
 
     - [ ] [6.006 Single-Source Shortest Paths Problem (video)](https://www.youtube.com/watch?v=Aa2sqUhIn-E&index=15&list=PLUl4u3cNGP61Oq3tWYp6V_F-5jb5L2iHb)
     - [ ] [6.006 Dijkstra (video)](https://www.youtube.com/watch?v=2E7MmKv0Y24&index=16&list=PLUl4u3cNGP61Oq3tWYp6V_F-5jb5L2iHb)
@@ -478,7 +478,7 @@ Graphs can be used to represent many problems in computer science, so this secti
     - [ ] single-source shortest path (Dijkstra)
     - [ ] minimum spanning tree
     - DFS-based algorithms (see Aduni videos above):
-        - [ ] check for cycle (needed for topological sort, since we'll check for cycle before starting)
+        - [X] check for cycle (needed for topological sort, since we'll check for cycle before starting)
         - [ ] topological sort
         - [ ] count connected components in a graph
         - [ ] list strongly connected components
