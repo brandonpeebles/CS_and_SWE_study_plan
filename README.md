@@ -29,7 +29,7 @@ _**Owner:** Brandon Peebles_
 - [X] **[Crash Course: Computer Science - 41 videos: ](https://www.youtube.com/playlist?list=PL8dPuuaLjXtNlUrzyH5r6jN9ulIgZBpdo)** _(in progress)_ Really great overview video series about computer science history, computer architecture, languages, internet, and more. 
 - [ ] **Data Structures & Algorithms:** _(in progress)_ Combined study using the following resources
 	- [X] Data Structures & Algorithms in Python ([book](https://www.amazon.com/Structures-Algorithms-Python-Michael-Goodrich/dp/1118290275))
-	- [X] Data Structures & Algorithms in Python ([course](https://www.udacity.com/course/data-structures-and-algorithms-in-python--ud513))
+	- [ ] Data Structures & Algorithms in Python ([course](https://www.udacity.com/course/data-structures-and-algorithms-in-python--ud513))
 	- [ ] Coding Interview University: Learn and practice implementations of the following. Outline presented --> see detailed view in appendix below, adapted from the Coding Interview University repo created by John Washam ([link](https://github.com/jwasham/coding-interview-university))
 		- [ ] Algorithmic Complexity / Big-O / Asymptotic Analysis
 		- [ ] Basic Data Structures
