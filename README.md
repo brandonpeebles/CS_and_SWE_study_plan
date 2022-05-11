@@ -17,8 +17,8 @@ _**Owner:** Brandon Peebles_
 	- [X] Data Visualization (D3, JSON APIs and Ajax) 
 	- [X] APIs and Microservices (Npm, Node, Express, MongoDB, Mongoose) 
 	- [X] Information Security and Quality Assurance (HelmetJS, QA and Testing with Chai, Advanced Node & Express) 
-- [ ]  **Overview of Operating Systems:**
-	- [ ] [Operating Systems Concepts 10th Edition](https://www.amazon.com/Operating-System-Concepts-Abraham-Silberschatz-ebook/dp/B07CVKH7BD) _(in progress)_
+- [X]  **Overview of Operating Systems:**
+	- [X] [Operating Systems Concepts 10th Edition](https://www.amazon.com/Operating-System-Concepts-Abraham-Silberschatz-ebook/dp/B07CVKH7BD) _(in progress)_
 	- [ ] [Berkeley CS 162 Operating Systems - 24 videos](https://www.youtube.com/playlist?list=PLRdybCcWDFzCag9A0h1m9QYaujD0xefgM)
 - [X]  **Overview of Computer Processing & Architecture:**
 	- [X] [How CPU executes a program (video)](https://www.youtube.com/watch?v=XM4lGflQFvA)
@@ -26,48 +26,48 @@ _**Owner:** Brandon Peebles_
 	- [X] [Registers and RAM (video)](https://youtu.be/fpnE6UAfbtU)
 	- [X] [The Central Processing Unit (CPU) (video)](https://youtu.be/FZGugFqdr60)
 	- [X] [Instructions and Programs (video)](https://youtu.be/zltgXvg6r3k)
-- [ ] **[Crash Course: Computer Science - 41 videos: ](https://www.youtube.com/playlist?list=PL8dPuuaLjXtNlUrzyH5r6jN9ulIgZBpdo)** _(in progress)_ Really great overview video series about computer science history, computer architecture, languages, internet, and more. 
+- [X] **[Crash Course: Computer Science - 41 videos: ](https://www.youtube.com/playlist?list=PL8dPuuaLjXtNlUrzyH5r6jN9ulIgZBpdo)** _(in progress)_ Really great overview video series about computer science history, computer architecture, languages, internet, and more. 
 - [ ] **Data Structures & Algorithms:** _(in progress)_ Combined study using the following resources
 	- [X] Data Structures & Algorithms in Python ([book](https://www.amazon.com/Structures-Algorithms-Python-Michael-Goodrich/dp/1118290275))
 	- [X] Data Structures & Algorithms in Python ([course](https://www.udacity.com/course/data-structures-and-algorithms-in-python--ud513))
 	- [ ] Coding Interview University: Learn and practice implementations of the following. Outline presented --> see detailed view in appendix below, adapted from the Coding Interview University repo created by John Washam ([link](https://github.com/jwasham/coding-interview-university))
-		- [X] Algorithmic Complexity / Big-O / Asymptotic Analysis
-		- [X] Basic Data Structures
-			- [X] Arrays
-			- [X] Linked Lists
-			- [X] Stack
-			- [X] Queue
-			- [X] Hash tables
-		- [X] Binary Search
+		- [ ] Algorithmic Complexity / Big-O / Asymptotic Analysis
+		- [ ] Basic Data Structures
+			- [ ] Arrays
+			- [ ] Linked Lists
+			- [ ] Stack
+			- [ ] Queue
+			- [ ] Hash tables
+		- [ ] Binary Search
 		- [ ] Bitwise Operations
-		- [X] Trees
-			- [X] General knowledge & Background
-			- [X] Binary Search Trees: BSTs
-			- [X] Heap / Prioritity Queue / Binary Heap
-			- [X] Balanced Search Trees (general concept + implementation of method to check if it is balanced)
-			- [X] Traversals: preorder, inorder, postorder, BFS, DFS
+		- [ ] Trees
+			- [ ] General knowledge & Background
+			- [ ] Binary Search Trees: BSTs
+			- [ ] Heap / Prioritity Queue / Binary Heap
+			- [ ] Balanced Search Trees (general concept + implementation of method to check if it is balanced)
+			- [ ] Traversals: preorder, inorder, postorder, BFS, DFS
 		- [ ] Sorting
-			- [X] Selection
+			- [ ] Selection
 			- [ ] Insertion
 			- [ ] Heapsort
 			- [ ] Quicksort
-			- [X] Merge sort
-		- [X] Graphs
-			- [X] Directed
-			- [X] Undirected
-			- [X] Adjacency Matrix
-			- [X] Adjacency List
-			- [X] Traversals: BFS, DFS
+			- [ ] Merge sort
+		- [ ] Graphs
+			- [ ] Directed
+			- [ ] Undirected
+			- [ ] Adjacency Matrix
+			- [ ] Adjacency List
+			- [ ] Traversals: BFS, DFS
 		
 * **Other Topics (when I have time):** Outline presented --> see detailed view in appendix below, adapted from the Coding Interview University repo created by John Washam ([link](https://github.com/jwasham/coding-interview-university))
-	- [X] Recursion
-	- [X] Dynamic Programming
+	- [ ] Recursion
+	- [ ] Dynamic Programming
 	- [ ] Combinatorics (n choose k) & Probability
 	- [ ] NP, NP-Complete and Approximation Algorithms
 	- [ ] Testing
 	- [ ] Scheduling
 	- [ ] String searching & manipulation
-	- [X] Tries
+	- [ ] Tries
 	- [ ] Floating Point Numbers
 	- [ ] Unicode
 	- [ ] Endianness
@@ -129,7 +129,7 @@ _**Owner:** Brandon Peebles_
 
 - ### Arrays
     - Implement an automatically resizing vector.
-    - [X] Description:
+    - [ ] Description:
         - [Arrays (video)](https://www.coursera.org/learn/data-structures/lecture/OsBSF/arrays)
         - [UC Berkeley CS61B - Linear and Multi-Dim Arrays (video)](https://archive.org/details/ucberkeley_webcast_Wp8oiO_CZZE) (Start watching from 15m 32s)
         - [Basic Arrays (video)](https://archive.org/details/0102WhatYouShouldKnow/02_04-basicArrays.mp4)
@@ -138,67 +138,67 @@ _**Owner:** Brandon Peebles_
         - [Jagged Arrays (video)](https://www.youtube.com/watch?v=1jtrQqYpt7g)
         - [Jagged Arrays (video)](https://archive.org/details/0102WhatYouShouldKnow/02_06-jaggedArrays.mp4)
         - [Resizing arrays (video)](https://archive.org/details/0102WhatYouShouldKnow/03_01-resizableArrays.mp4)
-    - [X] Implement a vector/dynamic array class (mutable array with automatic resizing):
-        - [X] size() - number of items
-        - [X] capacity() - number of items it can hold
-        - [X] at(index) - returns item at given index, blows up if index out of bounds
-        - [X] push(item)
-        - [X] insert(index, item) - inserts item at index, shifts that index's value and trailing elements to the right
-        - [X] prepend(item) - can use insert above at index 0
-        - [X] pop() - remove from end, return value
-        - [X] delete(index) - delete item at index, shifting all trailing elements left
-        - [X] remove(item) - looks for value and removes index holding it (even if in multiple places)
-        - [X] find(item) - looks for value and returns first index with that value, -1 if not found
-        - [X] resize(new_capacity) // private function
+    - [ ] Implement a vector/dynamic array class (mutable array with automatic resizing):
+        - [ ] size() - number of items
+        - [ ] capacity() - number of items it can hold
+        - [ ] at(index) - returns item at given index, blows up if index out of bounds
+        - [ ] push(item)
+        - [ ] insert(index, item) - inserts item at index, shifts that index's value and trailing elements to the right
+        - [ ] prepend(item) - can use insert above at index 0
+        - [ ] pop() - remove from end, return value
+        - [ ] delete(index) - delete item at index, shifting all trailing elements left
+        - [ ] remove(item) - looks for value and removes index holding it (even if in multiple places)
+        - [ ] find(item) - looks for value and returns first index with that value, -1 if not found
+        - [ ] resize(new_capacity) // private function
             - when you reach capacity, resize to double the size
             - when popping an item, if size is 1/4 of capacity, resize to half
-    - [X] Time
+    - [ ] Time
         - O(1) to add/remove at end (amortized for allocations for more space), index, or update
         - O(n) to insert/remove elsewhere
-    - [X] Space
+    - [ ] Space
         - contiguous in memory, so proximity helps performance
         - space needed = (array capacity, which is >= n) * size of item, but even if 2n, still O(n)
 
 - ### Linked Lists
-    - [X] General concept via textbook
-    - [X] Linked List vs Arrays:
+    - [ ] General concept via textbook
+    - [ ] Linked List vs Arrays:
         - [Core Linked Lists Vs Arrays (video)](https://www.coursera.org/learn/data-structures-optimizing-performance/lecture/rjBs9/core-linked-lists-vs-arrays)
         - [In The Real World Linked Lists Vs Arrays (video)](https://www.coursera.org/learn/data-structures-optimizing-performance/lecture/QUaUd/in-the-real-world-lists-vs-arrays)
-    - [X] implement:
-        - [X] size() - returns number of data elements in list
-        - [X] empty() - bool returns true if empty
-        - [X] value_at(index) - returns the value of the nth item (starting at 0 for first)
-        - [X] push_front(value) - adds an item to the front of the list
-        - [X] pop_front() - remove front item and return its value
-        - [X] push_back(value) - adds an item at the end
-        - [X] pop_back() - removes end item and returns its value
-        - [X] front() - get value of front item
-        - [X] back() - get value of end item
-        - [X] insert(index, value) - insert value at index, so current item at that index is pointed to by new item at index
-        - [X] erase(index) - removes node at given index
-        - [X] value_n_from_end(n) - returns the value of the node at nth position from the end of the list
-        - [X] reverse() - reverses the list
-        - [X] remove_value(value) - removes the first item in the list with this value
-    - [X] Doubly-linked List
+    - [ ] implement:
+        - [ ] size() - returns number of data elements in list
+        - [ ] empty() - bool returns true if empty
+        - [ ] value_at(index) - returns the value of the nth item (starting at 0 for first)
+        - [ ] push_front(value) - adds an item to the front of the list
+        - [ ] pop_front() - remove front item and return its value
+        - [ ] push_back(value) - adds an item at the end
+        - [ ] pop_back() - removes end item and returns its value
+        - [ ] front() - get value of front item
+        - [ ] back() - get value of end item
+        - [ ] insert(index, value) - insert value at index, so current item at that index is pointed to by new item at index
+        - [ ] erase(index) - removes node at given index
+        - [ ] value_n_from_end(n) - returns the value of the node at nth position from the end of the list
+        - [ ] reverse() - reverses the list
+        - [ ] remove_value(value) - removes the first item in the list with this value
+    - [ ] Doubly-linked List
         - [Description (video)](https://www.coursera.org/learn/data-structures/lecture/jpGKD/doubly-linked-lists)
         - No need to implement
 
 - ### Stack
-    - [X] [Stacks (video)](https://www.coursera.org/learn/data-structures/lecture/UdKzQ/stacks)
-    - [X] [Using Stacks Last-In First-Out (video)](https://archive.org/details/0102WhatYouShouldKnow/05_01-usingStacksForLast-inFirst-out.mp4)
-    - [X] Will not implement. Implementing with array is trivial.
+    - [ ] [Stacks (video)](https://www.coursera.org/learn/data-structures/lecture/UdKzQ/stacks)
+    - [ ] [Using Stacks Last-In First-Out (video)](https://archive.org/details/0102WhatYouShouldKnow/05_01-usingStacksForLast-inFirst-out.mp4)
+    - [ ] Will not implement. Implementing with array is trivial.
 
 - ### Queue
-    - [x] Implement using linked-list, with tail pointer:
+    - [ ] Implement using linked-list, with tail pointer:
         - enqueue(value) - adds value at position at tail
         - dequeue() - returns value and removes least recently added element (front)
         - empty()
-    - [x] Implement using fixed-sized array:
+    - [ ] Implement using fixed-sized array:
         - enqueue(value) - adds item at end of available storage
         - dequeue() - returns value and removes least recently added element
         - empty()
         - full()
-    - [x] Cost:
+    - [ ] Cost:
         - a bad implementation using linked list where you enqueue at head and dequeue at tail would be O(n)
             because you'd need the next to last element, causing a full traversal each dequeue
         - enqueue: O(1) (amortized, linked list and array [probing])
@@ -236,10 +236,10 @@ _**Owner:** Brandon Peebles_
 ## More Knowledge
 
 - ### Binary search
-    - [X] [Binary Search (video)](https://www.youtube.com/watch?v=D5SrAga1pno)
-    - [X] [Binary Search (video)](https://www.khanacademy.org/computing/computer-science/algorithms/binary-search/a/binary-search)
-    - [X] [detail](https://www.topcoder.com/community/competitive-programming/tutorials/binary-search/)
-    - [X] Implement:
+    - [ ] [Binary Search (video)](https://www.youtube.com/watch?v=D5SrAga1pno)
+    - [ ] [Binary Search (video)](https://www.khanacademy.org/computing/computer-science/algorithms/binary-search/a/binary-search)
+    - [ ] [detail](https://www.topcoder.com/community/competitive-programming/tutorials/binary-search/)
+    - [ ] Implement:
         - binary search (on sorted array of integers)
         - binary search using recursion
 
@@ -271,12 +271,12 @@ _**Owner:** Brandon Peebles_
 ## Trees
 
 - ### Trees - Notes & Background
-    - [X] [Series: Core Trees (video)](https://www.coursera.org/learn/data-structures-optimizing-performance/lecture/ovovP/core-trees)
-    - [X] [Series: Trees (video)](https://www.coursera.org/learn/data-structures/lecture/95qda/trees)
+    - [ ] [Series: Core Trees (video)](https://www.coursera.org/learn/data-structures-optimizing-performance/lecture/ovovP/core-trees)
+    - [ ] [Series: Trees (video)](https://www.coursera.org/learn/data-structures/lecture/95qda/trees)
     - basic tree construction
     - traversal
     - manipulation algorithms
-    - [X] [BFS(breadth-first search) and DFS(depth-first search) (video)](https://www.youtube.com/watch?v=uWL6FJhq5fM)
+    - [ ] [BFS(breadth-first search) and DFS(depth-first search) (video)](https://www.youtube.com/watch?v=uWL6FJhq5fM)
         - BFS notes:
            - level order (BFS, using queue)
            - time complexity: O(n)
@@ -291,61 +291,61 @@ _**Owner:** Brandon Peebles_
             - preorder (DFS: self, left, right)
 
 - ### Binary search trees: BSTs
-    - [X] [Binary Search Tree Review (video)](https://www.youtube.com/watch?v=x6At0nzX92o&index=1&list=PLA5Lqm4uh9Bbq-E0ZnqTIa8LRaL77ica6)
-    - [X] [Series (video)](https://www.coursera.org/learn/data-structures-optimizing-performance/lecture/p82sw/core-introduction-to-binary-search-trees)
+    - [ ] [Binary Search Tree Review (video)](https://www.youtube.com/watch?v=x6At0nzX92o&index=1&list=PLA5Lqm4uh9Bbq-E0ZnqTIa8LRaL77ica6)
+    - [ ] [Series (video)](https://www.coursera.org/learn/data-structures-optimizing-performance/lecture/p82sw/core-introduction-to-binary-search-trees)
         - starts with symbol table and goes through BST applications
-    - [X] [Introduction (video)](https://www.coursera.org/learn/data-structures/lecture/E7cXP/introduction)
-    - [X] [MIT (video)](https://www.youtube.com/watch?v=9Jry5-82I68)
+    - [ ] [Introduction (video)](https://www.coursera.org/learn/data-structures/lecture/E7cXP/introduction)
+    - [ ] [MIT (video)](https://www.youtube.com/watch?v=9Jry5-82I68)
     - C/C++:
-        - [X] [Binary search tree - Implementation in C/C++ (video)](https://www.youtube.com/watch?v=COZK7NATh4k&list=PL2_aWCzGMAwI3W_JlcBbtYTwiQSsOTa6P&index=28)
-        - [X] [BST implementation - memory allocation in stack and heap (video)](https://www.youtube.com/watch?v=hWokyBoo0aI&list=PL2_aWCzGMAwI3W_JlcBbtYTwiQSsOTa6P&index=29)
-        - [X] [Find min and max element in a binary search tree (video)](https://www.youtube.com/watch?v=Ut90klNN264&index=30&list=PL2_aWCzGMAwI3W_JlcBbtYTwiQSsOTa6P)
-        - [X] [Find height of a binary tree (video)](https://www.youtube.com/watch?v=_pnqMz5nrRs&list=PL2_aWCzGMAwI3W_JlcBbtYTwiQSsOTa6P&index=31)
-        - [X] [Binary tree traversal - breadth-first and depth-first strategies (video)](https://www.youtube.com/watch?v=9RHO6jU--GU&list=PL2_aWCzGMAwI3W_JlcBbtYTwiQSsOTa6P&index=32)
-        - [X] [Binary tree: Level Order Traversal (video)](https://www.youtube.com/watch?v=86g8jAQug04&index=33&list=PL2_aWCzGMAwI3W_JlcBbtYTwiQSsOTa6P)
-        - [X] [Binary tree traversal: Preorder, Inorder, Postorder (video)](https://www.youtube.com/watch?v=gm8DUJJhmY4&index=34&list=PL2_aWCzGMAwI3W_JlcBbtYTwiQSsOTa6P)
-        - [X] [Check if a binary tree is binary search tree or not (video)](https://www.youtube.com/watch?v=yEwSGhSsT0U&index=35&list=PL2_aWCzGMAwI3W_JlcBbtYTwiQSsOTa6P)
-        - [X] [Delete a node from Binary Search Tree (video)](https://www.youtube.com/watch?v=gcULXE7ViZw&list=PL2_aWCzGMAwI3W_JlcBbtYTwiQSsOTa6P&index=36)
+        - [ ] [Binary search tree - Implementation in C/C++ (video)](https://www.youtube.com/watch?v=COZK7NATh4k&list=PL2_aWCzGMAwI3W_JlcBbtYTwiQSsOTa6P&index=28)
+        - [ ] [BST implementation - memory allocation in stack and heap (video)](https://www.youtube.com/watch?v=hWokyBoo0aI&list=PL2_aWCzGMAwI3W_JlcBbtYTwiQSsOTa6P&index=29)
+        - [ ] [Find min and max element in a binary search tree (video)](https://www.youtube.com/watch?v=Ut90klNN264&index=30&list=PL2_aWCzGMAwI3W_JlcBbtYTwiQSsOTa6P)
+        - [ ] [Find height of a binary tree (video)](https://www.youtube.com/watch?v=_pnqMz5nrRs&list=PL2_aWCzGMAwI3W_JlcBbtYTwiQSsOTa6P&index=31)
+        - [ ] [Binary tree traversal - breadth-first and depth-first strategies (video)](https://www.youtube.com/watch?v=9RHO6jU--GU&list=PL2_aWCzGMAwI3W_JlcBbtYTwiQSsOTa6P&index=32)
+        - [ ] [Binary tree: Level Order Traversal (video)](https://www.youtube.com/watch?v=86g8jAQug04&index=33&list=PL2_aWCzGMAwI3W_JlcBbtYTwiQSsOTa6P)
+        - [ ] [Binary tree traversal: Preorder, Inorder, Postorder (video)](https://www.youtube.com/watch?v=gm8DUJJhmY4&index=34&list=PL2_aWCzGMAwI3W_JlcBbtYTwiQSsOTa6P)
+        - [ ] [Check if a binary tree is binary search tree or not (video)](https://www.youtube.com/watch?v=yEwSGhSsT0U&index=35&list=PL2_aWCzGMAwI3W_JlcBbtYTwiQSsOTa6P)
+        - [ ] [Delete a node from Binary Search Tree (video)](https://www.youtube.com/watch?v=gcULXE7ViZw&list=PL2_aWCzGMAwI3W_JlcBbtYTwiQSsOTa6P&index=36)
         - [ ] [Inorder Successor in a binary search tree (video)](https://www.youtube.com/watch?v=5cPbNCrdotA&index=37&list=PL2_aWCzGMAwI3W_JlcBbtYTwiQSsOTa6P)
-    - [X] Implement (complete other methods later if time permits):
-        - [X] insert    // insert value into tree
-        - [X] get_node_count // get count of values stored
-        - [X] print_values // prints the values in the tree, from min to max
+    - [ ] Implement (complete other methods later if time permits):
+        - [ ] insert    // insert value into tree
+        - [ ] get_node_count // get count of values stored
+        - [ ] print_values // prints the values in the tree, from min to max
         - [ ] delete_tree
-        - [X] is_in_tree // returns true if given value exists in the tree
-        - [X] get_height // returns the height in nodes (single node's height is 1)
+        - [ ] is_in_tree // returns true if given value exists in the tree
+        - [ ] get_height // returns the height in nodes (single node's height is 1)
         - [ ] get_min   // returns the minimum value stored in the tree
         - [ ] get_max   // returns the maximum value stored in the tree
-        - [X] is_binary_search_tree
-        - [X] delete_value
+        - [ ] is_binary_search_tree
+        - [ ] delete_value
         - [ ] get_successor // returns next-highest value in tree after given value, -1 if none
 
 - ### Heap / Priority Queue / Binary Heap
     - visualized as a tree, but is usually linear in storage (array, linked list)
-    - [X] [Heap](https://en.wikipedia.org/wiki/Heap_(data_structure))
-    - [X] [Introduction (video)](https://www.coursera.org/learn/data-structures/lecture/2OpTs/introduction)
-    - [X] [Naive Implementations (video)](https://www.coursera.org/learn/data-structures/lecture/z3l9N/naive-implementations)
-    - [X] [Binary Trees (video)](https://www.coursera.org/learn/data-structures/lecture/GRV2q/binary-trees)
-    - [X] [Tree Height Remark (video)](https://www.coursera.org/learn/data-structures/supplement/S5xxz/tree-height-remark)
-    - [X] [Basic Operations (video)](https://www.coursera.org/learn/data-structures/lecture/0g1dl/basic-operations)
-    - [X] [Complete Binary Trees (video)](https://www.coursera.org/learn/data-structures/lecture/gl5Ni/complete-binary-trees)
-    - [X] [Pseudocode (video)](https://www.coursera.org/learn/data-structures/lecture/HxQo9/pseudocode)
-    - [X] [Heap Sort - jumps to start (video)](https://youtu.be/odNJmw5TOEE?list=PLFDnELG9dpVxQCxuD-9BSy2E7BWY3t5Sm&t=3291)
-    - [X] [Heap Sort (video)](https://www.coursera.org/learn/data-structures/lecture/hSzMO/heap-sort)
-    - [X] [Building a heap (video)](https://www.coursera.org/learn/data-structures/lecture/dwrOS/building-a-heap)
-    - [X] [MIT: Heaps and Heap Sort (video)](https://www.youtube.com/watch?v=B7hVxCmfPtM&index=4&list=PLUl4u3cNGP61Oq3tWYp6V_F-5jb5L2iHb)
-    - [X] [CS 61B Lecture 24: Priority Queues (video)](https://archive.org/details/ucberkeley_webcast_yIUFT6AKBGE)
-    - [X] [Linear Time BuildHeap (max-heap)](https://www.youtube.com/watch?v=MiyLo8adrWw)
-    - [X] Implement a max-heap:
-        - [X] insert
-        - [X] sift_up - needed for insert
-        - [X] get_max - returns the max item, without removing it
-        - [X] get_size() - return number of elements stored
-        - [X] is_empty() - returns true if heap contains no elements
-        - [X] extract_max - returns the max item, removing it
-        - [X] sift_down - needed for extract_max
+    - [ ] [Heap](https://en.wikipedia.org/wiki/Heap_(data_structure))
+    - [ ] [Introduction (video)](https://www.coursera.org/learn/data-structures/lecture/2OpTs/introduction)
+    - [ ] [Naive Implementations (video)](https://www.coursera.org/learn/data-structures/lecture/z3l9N/naive-implementations)
+    - [ ] [Binary Trees (video)](https://www.coursera.org/learn/data-structures/lecture/GRV2q/binary-trees)
+    - [ ] [Tree Height Remark (video)](https://www.coursera.org/learn/data-structures/supplement/S5xxz/tree-height-remark)
+    - [ ] [Basic Operations (video)](https://www.coursera.org/learn/data-structures/lecture/0g1dl/basic-operations)
+    - [ ] [Complete Binary Trees (video)](https://www.coursera.org/learn/data-structures/lecture/gl5Ni/complete-binary-trees)
+    - [ ] [Pseudocode (video)](https://www.coursera.org/learn/data-structures/lecture/HxQo9/pseudocode)
+    - [ ] [Heap Sort - jumps to start (video)](https://youtu.be/odNJmw5TOEE?list=PLFDnELG9dpVxQCxuD-9BSy2E7BWY3t5Sm&t=3291)
+    - [ ] [Heap Sort (video)](https://www.coursera.org/learn/data-structures/lecture/hSzMO/heap-sort)
+    - [ ] [Building a heap (video)](https://www.coursera.org/learn/data-structures/lecture/dwrOS/building-a-heap)
+    - [ ] [MIT: Heaps and Heap Sort (video)](https://www.youtube.com/watch?v=B7hVxCmfPtM&index=4&list=PLUl4u3cNGP61Oq3tWYp6V_F-5jb5L2iHb)
+    - [ ] [CS 61B Lecture 24: Priority Queues (video)](https://archive.org/details/ucberkeley_webcast_yIUFT6AKBGE)
+    - [ ] [Linear Time BuildHeap (max-heap)](https://www.youtube.com/watch?v=MiyLo8adrWw)
+    - [ ] Implement a max-heap:
+        - [ ] insert
+        - [ ] sift_up - needed for insert
+        - [ ] get_max - returns the max item, without removing it
+        - [ ] get_size() - return number of elements stored
+        - [ ] is_empty() - returns true if heap contains no elements
+        - [ ] extract_max - returns the max item, removing it
+        - [ ] sift_down - needed for extract_max
         - [ ] remove(i) - removes item at index x
-        - [X] heapify - create a heap from an array of elements, needed for heap_sort
+        - [ ] heapify - create a heap from an array of elements, needed for heap_sort
         - [ ] heap_sort() - take an unsorted array and turn it into a sorted array in-place using a max heap
             - note: using a min heap instead would save operations, but double the space needed (cannot do in-place).
 
@@ -402,7 +402,7 @@ _**Owner:** Brandon Peebles_
     - [ ] [Implementation (Python)](https://github.com/jwasham/practice-python/blob/master/quick_sort/quick_sort.py)
 
 - [ ] Implement:
-    - [X] Mergesort: O(n log n) average and worst case
+    - [ ] Mergesort: O(n log n) average and worst case
     - [ ] Quicksort O(n log n) average case
     - Selection sort and insertion sort are both O(n^2) average and worst case
     - [ ] heapsort, see Heap data structure above.
@@ -443,14 +443,14 @@ Graphs can be used to represent many problems in computer science, so this secti
     - [ ] [Depth-First Search](https://www.youtube.com/watch?v=AfSk24UTFS8&list=PLUl4u3cNGP61Oq3tWYp6V_F-5jb5L2iHb&index=14)
 
 - [ ] Skiena Lectures - great intro:
-    - [X] [CSE373 2012 - Lecture 11 - Graph Data Structures (video)](https://www.youtube.com/watch?v=OiXxhDrFruw&list=PLOtl7M3yp-DV69F32zdK7YJcNXpTunF2b&index=11)
-    - [X] [CSE373 2012 - Lecture 12 - Breadth-First Search (video)](https://www.youtube.com/watch?v=g5vF8jscteo&list=PLOtl7M3yp-DV69F32zdK7YJcNXpTunF2b&index=12)
-    - [X] [CSE373 2012 - Lecture 13 - Graph Algorithms (video)](https://www.youtube.com/watch?v=S23W6eTcqdY&list=PLOtl7M3yp-DV69F32zdK7YJcNXpTunF2b&index=13)
+    - [ ] [CSE373 2012 - Lecture 11 - Graph Data Structures (video)](https://www.youtube.com/watch?v=OiXxhDrFruw&list=PLOtl7M3yp-DV69F32zdK7YJcNXpTunF2b&index=11)
+    - [ ] [CSE373 2012 - Lecture 12 - Breadth-First Search (video)](https://www.youtube.com/watch?v=g5vF8jscteo&list=PLOtl7M3yp-DV69F32zdK7YJcNXpTunF2b&index=12)
+    - [ ] [CSE373 2012 - Lecture 13 - Graph Algorithms (video)](https://www.youtube.com/watch?v=S23W6eTcqdY&list=PLOtl7M3yp-DV69F32zdK7YJcNXpTunF2b&index=13)
     - [ ] [CSE373 2012 - Lecture 14 - Graph Algorithms (con't) (video)](https://www.youtube.com/watch?v=WitPBKGV0HY&index=14&list=PLOtl7M3yp-DV69F32zdK7YJcNXpTunF2b)
     - [ ] [CSE373 2012 - Lecture 15 - Graph Algorithms (con't 2) (video)](https://www.youtube.com/watch?v=ia1L30l7OIg&index=15&list=PLOtl7M3yp-DV69F32zdK7YJcNXpTunF2b)
     - [ ] [CSE373 2012 - Lecture 16 - Graph Algorithms (con't 3) (video)](https://www.youtube.com/watch?v=jgDOQq6iWy8&index=16&list=PLOtl7M3yp-DV69F32zdK7YJcNXpTunF2b)
 
-- [X] Graphs (review and more):
+- [ ] Graphs (review and more):
 
     - [ ] [6.006 Single-Source Shortest Paths Problem (video)](https://www.youtube.com/watch?v=Aa2sqUhIn-E&index=15&list=PLUl4u3cNGP61Oq3tWYp6V_F-5jb5L2iHb)
     - [ ] [6.006 Dijkstra (video)](https://www.youtube.com/watch?v=2E7MmKv0Y24&index=16&list=PLUl4u3cNGP61Oq3tWYp6V_F-5jb5L2iHb)
@@ -469,16 +469,16 @@ Graphs can be used to represent many problems in computer science, so this secti
     - [ ] [Algorithms on Graphs (video)](https://www.coursera.org/learn/algorithms-on-graphs/home/welcome)
 
 - I'll implement:
-    - [X] DFS with adjacency list (recursive)
-    - [X] DFS with adjacency list (iterative with stack)
+    - [ ] DFS with adjacency list (recursive)
+    - [ ] DFS with adjacency list (iterative with stack)
     - [ ] DFS with adjacency matrix (recursive)
     - [ ] DFS with adjacency matrix (iterative with stack)
-    - [X] BFS with adjacency list
+    - [ ] BFS with adjacency list
     - [ ] BFS with adjacency matrix
     - [ ] single-source shortest path (Dijkstra)
     - [ ] minimum spanning tree
     - DFS-based algorithms (see Aduni videos above):
-        - [X] check for cycle (needed for topological sort, since we'll check for cycle before starting)
+        - [ ] check for cycle (needed for topological sort, since we'll check for cycle before starting)
         - [ ] topological sort
         - [ ] count connected components in a graph
         - [ ] list strongly connected components
